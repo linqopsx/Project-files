@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KeyVisualizer/KeyVisualizer.vcxproj" Id="f74fa1de-7c9a-48b8-8b49-2952401bf27e" />
+</Solution>
